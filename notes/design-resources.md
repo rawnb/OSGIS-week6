@@ -18,18 +18,18 @@
 - [System font stack](https://css-tricks.com/snippets/css/system-font-stack/)
 
 ## Map Application Design Examples
-- [Carter Center's Syria Conflict Map](https://www.cartercenter.org/syria-conflict-map/)
-- [OECD Regional Well-being](https://oecdregionalwellbeing.org/)
+- [COVID-19 Compiler](https://covid19.topos.com/)
+- [India Lights](http://india.nightlights.io/)
+- [OneSoil](https://map.onesoil.ai/)
 - [Google Sunroof](https://www.google.com/get/sunroof)
 - [Project Ukko](http://project-ukko.net/map.html)
-- [Flight Routes](http://flightroutes.geographica.gs/)
+- [Atlas of Gun Violence](https://www.thetrace.org/2018/12/gun-violence-interactive-shootings-map/)
 - [American Panorama](http://dsl.richmond.edu/panorama/canals/)
-- [Sygic Travel](https://travel.sygic.com)
-- [Map Interface Collection](http://jdf.dropmark.com/226860)
+- [DistrictBuilder](http://districtbuilder.org/)
+- [Map Interface Collection](https://www.are.na/jeff-frankl/map-based-applications)
 
 ## Component Libraries
 - [Bootstrap](https://getbootstrap.com/)
-- [Semantic UI](https://semantic-ui.com)
 
 ## Other
 - [UX Checklist](https://uxchecklist.github.io/)
